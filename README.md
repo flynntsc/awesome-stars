@@ -5,6 +5,7 @@
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 - [大前端工具集](https://github.com/nieweidong/fetool)
+- [编码规范 - HTML、CSS](https://github.com/mdo/code-guide)
 - [ES6编码规范](https://github.com/gf-rd/es6-coding-style)
 - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 - [前端技能汇总](https://github.com/JacksonTian/fks)

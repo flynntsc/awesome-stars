@@ -65,6 +65,11 @@
 - [JQuery讲解系列](https://github.com/JsAaron/jQuery)
 - [jQuery源码](https://github.com/chokcoco/jQuery-)
 
+## Vue
+
+- [Vue源码解析 - 1.0.25](https://github.com/JsAaron/vue-analysis)
+- [饿了么Vue组件库](https://github.com/elemefe)
+
 ## React
 
 - [react源码分析](https://github.com/janryWang/react-study)

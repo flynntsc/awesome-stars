@@ -68,6 +68,7 @@
 ## Vue
 
 - [Vue源码解析 - 1.0.25](https://github.com/JsAaron/vue-analysis)
+- [Vue源码解读和分析](https://github.com/banama/aboutVue)
 - [饿了么Vue组件库](https://github.com/elemefe)
 
 ## React

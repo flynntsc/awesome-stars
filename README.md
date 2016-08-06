@@ -41,6 +41,7 @@
 
 - [ES的下一个版本介绍](https://github.com/hemanth/es-next)
 - [es6features](https://github.com/lukehoban/es6features)
+- [Data structures implemented in JS](https://github.com/LukeLin/js-stl)
 
 ## Html
 

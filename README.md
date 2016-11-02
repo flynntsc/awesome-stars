@@ -5,13 +5,13 @@
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 - [大前端工具集](https://github.com/nieweidong/fetool)
-- [编码规范 - HTML、CSS](https://github.com/mdo/code-guide)
-- [ES6编码规范](https://github.com/gf-rd/es6-coding-style)
 - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 - [前端技能汇总](https://github.com/JacksonTian/fks)
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App)
 - [主流学习资源](https://github.com/mulgore/Front-End-Develop-Guide)
 - [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
+- [编码规范 - HTML、CSS](https://github.com/mdo/code-guide)
+- [ES6编码规范](https://github.com/gf-rd/es6-coding-style)
 
 ## Blogs
 
@@ -31,10 +31,12 @@
 
 ## Tools
 
+- [RAP](https://github.com/thx/RAP) Web接口管理工具,阿里出品维护
 - [code-to-image](https://github.com/akira-cn/code-to-image) 代码转换为高亮base64图片
 - [复制剪贴板插件](https://github.com/zenorocha/clipboard.js)
 - [拖动库](https://github.com/desandro/draggabilly)
 - [vex](https://github.com/hubspot/vex) 极小的手机3D弹窗效果
+- [lambda-view](https://github.com/Jianru-Lin/lambda-view) 复杂JavaScript源码阅读分析工具
 
 
 ## Js

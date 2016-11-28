@@ -12,6 +12,7 @@
 - [如何做好一枚程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN)
 - [编码规范 - HTML、CSS](https://github.com/mdo/code-guide)
 - [ES6编码规范](https://github.com/gf-rd/es6-coding-style)
+- [《你不懂JS》系列译文](https://github.com/JoeHetfield/You-Dont-Know-JS)
 
 ## Blogs
 
@@ -61,6 +62,7 @@
 
 ## Nodejs
 
+- [一起学 Node.js](https://github.com/nswbmw/N-blog)
 - [对Node.js中 stream模块的学习积累和理解](https://github.com/zoubin/streamify-your-node-program)
 
 ## JQuery
@@ -72,7 +74,8 @@
 
 - [Vue源码解析 - 1.0.25](https://github.com/JsAaron/vue-analysis)
 - [Vue源码解读和分析](https://github.com/banama/aboutVue)
-- [饿了么Vue组件库](https://github.com/elemefe)
+- [饿了么Vue组件库](https://github.com/elemefe) 
+- [Mint UI](https://github.com/ElemeFE/mint-ui/) 移动ui
 
 ## React
 
